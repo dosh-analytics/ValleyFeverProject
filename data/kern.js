@@ -1,0 +1,10 @@
+/* KA: Kern County close-up: employer-site location checks and industry counts. */
+var KA={
+"t12":1429,
+"conf3":{"high":1306,"medium":113,"low_or_unresolved":10},
+"shared_all":798,
+"shared_t12":115,
+"label_outside":33,
+"zip_moved_all":29,
+"d3":[{"code":"113","tier":1,"sites":3,"people":42,"title":"Forestry and Logging"},{"code":"541","tier":1,"sites":6,"people":48,"title":"Professional, Scientific, and Technical Services"},{"code":"212","tier":1,"sites":8,"people":588,"title":"Mining (except Oil and Gas)"},{"code":"562","tier":1,"sites":8,"people":110,"title":"Waste Management and Remediation Services"},{"code":"211","tier":1,"sites":14,"people":1438,"title":"Oil and Gas Extraction"},{"code":"561","tier":1,"sites":22,"people":382,"title":"Administrative and Support Services"},{"code":"112","tier":1,"sites":44,"people":675,"title":"Animal Production and Aquaculture"},{"code":"237","tier":1,"sites":73,"people":4068,"title":"Heavy and Civil Engineering Construction"},{"code":"115","tier":1,"sites":79,"people":8016,"title":"Support Activities for Agriculture and Forestry"},{"code":"213","tier":1,"sites":98,"people":6475,"title":"Support Activities for Mining"},{"code":"236","tier":1,"sites":163,"people":1910,"title":"Construction of Buildings"},{"code":"111","tier":1,"sites":192,"people":8657,"title":"Crop Production"},{"code":"238","tier":1,"sites":380,"people":5567,"title":"Specialty Trade Contractors"},{"code":"327","tier":2,"sites":10,"people":454,"title":"Nonmetallic Mineral Product Manufacturing"},{"code":"562","tier":2,"sites":15,"people":378,"title":"Waste Management and Remediation Services"},{"code":"423","tier":2,"sites":18,"people":183,"title":"Merchant Wholesalers, Durable Goods"},{"code":"713","tier":2,"sites":24,"people":867,"title":"Amusement, Gambling, and Recreation Industries"},{"code":"541","tier":2,"sites":25,"people":343,"title":"Professional, Scientific, and Technical Services"},{"code":"221","tier":2,"sites":86,"people":2264,"title":"Utilities"},{"code":"484","tier":2,"sites":161,"people":3320,"title":"Truck Transportation"}]
+};
